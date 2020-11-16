@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content"></string>
+    <string name="beginner">BEGINNER</string>
+    <string name="intermediate">INTERMEDIATE</string>
+    <string name="advanced">ADVANCED</string>
+    <string name="title_activity_ez_beginner">FullscreenActivity</string>
+    <string name="l1">Lesson 1</string>
+    <string name="l2">Lesson 2</string>
+    <string name="l3">Lesson 3</string>
+    <string name="l4">Lesson 4</string>
+    <string name="title_activity_beginner1">FullscreenActivity</string>
+    <string name="my_string"> Humpty Dumpty sat on a <text color="#fd625e">wall</text></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
